@@ -8,10 +8,6 @@ var arrayOfQuotes = [
 	"quote":"I hate smiling. It makes me feel weak and powerless and small. I've always been like that; I don't smile in any pictures."
 },
 {
-	"author":"Subigya Adhikari",
-	"quote":"Even the most terrible sorrow is healed by time; nothing is gained by reliving it everyday."
-},
-{
 	"author":"Sujan Panta",
 	"quote":"If your dreams let you sleep at night then sorry mate you need to look out for better dream."
 },
